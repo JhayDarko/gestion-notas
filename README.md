@@ -40,5 +40,3 @@ El programa permite ingresar las calificaciones de los estudiantes y calcula su 
 ## Criterios de aprobación
 
 - El promedio mínimo para aprobar es **3.0**.
-
-## Tecnologías utilizadas
